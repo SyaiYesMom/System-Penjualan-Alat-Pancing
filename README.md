@@ -10,10 +10,10 @@ Aplikasi Java console-based untuk sistem penjualan alat pancing, dibuat sebagai 
 4. Logika percabangan kompleks (if majemuk & bersarang)
 5. Struktur data sederhana (array / List)
 6 Atribut utama seperti:
-  - No. Urut
-  - NIM
-  - Nama
-  - Detail menu, dsb.
+    - No. Urut
+    - NIM
+    - Nama
+    - Detail menu, dsb.
 
 ## **💻 Cara Menjalankan**
 
