@@ -1,96 +1,22 @@
-🎣 System Penjualan Alat Pancing
-System Penjualan Alat Pancing adalah aplikasi desktop berbasis Java yang dikembangkan untuk memenuhi tugas UTS Pemrograman Visual. Aplikasi ini memfasilitasi simulasi proses penjualan alat pancing dengan antarmuka menu sederhana.
+# **📊 System Penjualan Alat Pancing**
 
-🚀 Fitur Utama
-Input & Output
-Mengolah masukan dari pengguna dan menampilkan hasil transaksi.
+Aplikasi Java console-based untuk sistem penjualan alat pancing, dibuat sebagai tugas UTS Pemrograman Visual. Tujuannya untuk melatih konsep dasar pemrograman berorientasi objek, input/output, serta kontrol alur (percabangan & perulangan).
 
-Pengelolaan Tipe Data
-Mendukung berbagai tipe data seperti String, Integer, serta operasi aritmatika dan logika.
+## **📌 Fitur Utama**
 
-Logika Pengambilan Keputusan
-Implementasi if majemuk dan if bersarang untuk mengendalikan alur program berdasarkan pilihan menu.
+```graphql
+1. Tampilan menu berbasis teks untuk navigasi
+2. Input data pelanggan atau transaksi (String, Integer)
+3. Pengelolaan data aritmatika (hitung total, diskon, dsb.)
+4. Logika percabangan kompleks (if majemuk & bersarang)
+5. Struktur data sederhana (array / List)
+6 Atribut utama seperti:
+  - No. Urut
+  - NIM
+  - Nama
+  - Detail menu, dsb.
+```
 
-User Interface Berbasis Teks
-Menggunakan menu pilihan agar pengguna mudah menavigasi program.
+## **💻 Cara Menjalankan**
 
-Atribut yang Digunakan
-
-No. Urut
-
-Nim (Nomor Induk Mahasiswa)
-
-Nama
-
-Menu Pilihan
-
-📂 Struktur Projek
-bash
-Copy
-Edit
-System-Penjualan-Alat-Pancing/
-├── README.md
-└── ViadarFishing.java    # File utama berisi logika aplikasi penjualan
-ViadarFishing.java
-Berisi implementasi antarmuka menu, input pengguna, logika perhitungan harga dan tampilan data.
-
-🛠️ Cara Menjalankan Aplikasi
-Prasyarat
-Java Development Kit (JDK) terinstal, versi 8 atau lebih tinggi.
-
-Langkah-langkah
-Clone repository ini:
-
-bash
-Copy
-Edit
-git clone https://github.com/SyaiYesMom/System-Penjualan-Alat-Pancing.git
-Masuk ke direktori proyek:
-
-bash
-Copy
-Edit
-cd System-Penjualan-Alat-Pancing
-Kompilasi program:
-
-bash
-Copy
-Edit
-javac ViadarFishing.java
-Jalankan aplikasi:
-
-bash
-Copy
-Edit
-java ViadarFishing
-🎯 Contoh Tampilan Menu
-markdown
-Copy
-Edit
-=== Menu Penjualan Alat Pancing ===
-1. Masukkan Data Transaksi
-2. Tampilkan Semua Transaksi
-3. Keluar
-Pilihan Anda: _
-Setiap menu akan memandu pengguna melalui input data (NIM, nama, jumlah pembelian), mengolah total harga, dan menampilkan hasilnya.
-
-🤝 Kontribusi
-Projek ini dibuat sebagai tugas akademik akhir semester. Namun, jika Anda memiliki saran pengembangan—misalnya:
-
-Menambahkan penyimpanan data menggunakan file/SQlite,
-
-Penghitungan diskon atau pajak,
-
-atau antarmuka GUI yang lebih kaya,
-
-Silakan ajukan Pull Request, atau buka Issue untuk berdiskusi lebih lanjut.
-
-📄 Lisensi
-Lisensi belum ditentukan. Anda dapat menambahkan lisensi seperti MIT atau GPLv3 sesuai kebutuhan.
-
-🙌 Penutup
-Terima kasih telah mengecek repository ini! Jika Anda menyukai kode ini atau ingin dikembangkan lebih lanjut, jangan ragu untuk beri ⭐ dan follow.
-
-Jika ada pertanyaan, komentar, atau ingin berdiskusi lebih lanjut, silakan hubungi pemilik repositori.
-
-Dibuat dengan ❤️ oleh SyaiYesMom
+1. Pastikan sudah install JDK 8+ dan javac sudah bekerja.
