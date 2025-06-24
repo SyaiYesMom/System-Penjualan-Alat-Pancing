@@ -56,13 +56,31 @@ Berisi logika utama: menampilkan menu, baca input, proses pesanan, perhitungan, 
 ## **🚀 Bagaimana Aplikasi Bekerja**
 
 **1.Tampilkan Menu Utama**
+
 Pengguna memilih opsi (misal: tambah data, lihat transaksi, keluar).
 
-Input Data
+**2.Input Data**
+
 Program meminta input pengguna seperti NIM, nama, harga/jumlah, dsb.
 
-Proses Logika
+**3.Proses Logika**
+
 Kalkulasi total biaya, penerapan kondisi (diskon atau validasi input).
 
-Tampilkan Output
+**4.Tampilkan Output**
+
 Ringkasan transaksi dicetak ke console, lalu kembali ke menu.
+
+
+## **🛠 Teknologi & Konsep**
+
+**- Bahasa**: Java
+
+**- Konsep terapan**:
+
+    - Input/output via Scanner
+    - TIpe data primitif & String
+    - Percabangan: if, else if, nested if
+    - Perulangan: while / for (apabila digunakan)
+    - Menu interaktif berbasis console
+
