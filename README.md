@@ -2,6 +2,7 @@
 
 Aplikasi Java console-based untuk sistem penjualan alat pancing, dibuat sebagai tugas UTS Pemrograman Visual. Tujuannya untuk melatih konsep dasar pemrograman berorientasi objek, input/output, serta kontrol alur (percabangan & perulangan).
 
+
 ## **📌 Fitur Utama**
 
 - Tampilan menu berbasis teks untuk navigasi
@@ -14,6 +15,7 @@ Aplikasi Java console-based untuk sistem penjualan alat pancing, dibuat sebagai 
     - NIM
     - Nama
     - Detail menu, dsb.
+
 
 ## **💻 Cara Menjalankan**
 
@@ -36,3 +38,18 @@ javac ViadarFishing.java
 ```graphql
 java ViadarFishing
 ```
+
+
+## **🧩 Struktur Proyek**
+
+```graphql
+.
+├── ViadarFishing.java    # Entry point aplikasi
+└── README.md             # Dokumentasi (kamu!)
+```
+
+**- ViadarFishing.java**
+Berisi logika utama: menampilkan menu, baca input, proses pesanan, perhitungan, dan output ke console.
+
+
+## **🚀 Bagaimana Aplikasi Bekerja**
