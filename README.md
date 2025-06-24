@@ -54,3 +54,15 @@ Berisi logika utama: menampilkan menu, baca input, proses pesanan, perhitungan, 
 
 
 ## **🚀 Bagaimana Aplikasi Bekerja**
+
+**1.Tampilkan Menu Utama**
+Pengguna memilih opsi (misal: tambah data, lihat transaksi, keluar).
+
+Input Data
+Program meminta input pengguna seperti NIM, nama, harga/jumlah, dsb.
+
+Proses Logika
+Kalkulasi total biaya, penerapan kondisi (diskon atau validasi input).
+
+Tampilkan Output
+Ringkasan transaksi dicetak ke console, lalu kembali ke menu.
