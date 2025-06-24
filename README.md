@@ -4,12 +4,12 @@ Aplikasi Java console-based untuk sistem penjualan alat pancing, dibuat sebagai 
 
 ## **📌 Fitur Utama**
 
-1. Tampilan menu berbasis teks untuk navigasi
-2. Input data pelanggan atau transaksi (String, Integer)
-3. Pengelolaan data aritmatika (hitung total, diskon, dsb.)
-4. Logika percabangan kompleks (if majemuk & bersarang)
-5. Struktur data sederhana (array / List)
-6 Atribut utama seperti:
+- Tampilan menu berbasis teks untuk navigasi
+- Input data pelanggan atau transaksi (String, Integer)
+- Pengelolaan data aritmatika (hitung total, diskon, dsb.)
+- Logika percabangan kompleks (if majemuk & bersarang)
+- Struktur data sederhana (array / List)
+- Atribut utama seperti:
     - No. Urut
     - NIM
     - Nama
