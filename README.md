@@ -4,7 +4,6 @@ Aplikasi Java console-based untuk sistem penjualan alat pancing, dibuat sebagai 
 
 ## **📌 Fitur Utama**
 
-```graphql
 1. Tampilan menu berbasis teks untuk navigasi
 2. Input data pelanggan atau transaksi (String, Integer)
 3. Pengelolaan data aritmatika (hitung total, diskon, dsb.)
@@ -15,8 +14,25 @@ Aplikasi Java console-based untuk sistem penjualan alat pancing, dibuat sebagai 
   - NIM
   - Nama
   - Detail menu, dsb.
-```
 
 ## **💻 Cara Menjalankan**
 
 1. Pastikan sudah install JDK 8+ dan javac sudah bekerja.
+2. Clone repo ini:
+
+```graphql
+git clone https://github.com/SyaiYesMom/System-Penjualan-Alat-Pancing.git
+cd System-Penjualan-Alat-Pancing
+```
+
+3. Compile file Java:
+
+```graphql
+javac ViadarFishing.java
+```
+
+4. Jalankan program:
+
+```graphql
+java ViadarFishing
+```
