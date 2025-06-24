@@ -44,8 +44,8 @@ java ViadarFishing
 
 ```graphql
 .
-├── ViadarFishing.java    # Entry point aplikasi
-└── README.md             # Dokumentasi (kamu!)
+├── ViadarFishing.java
+└── README.md
 ```
 
 **- ViadarFishing.java**
