@@ -82,3 +82,20 @@ Ringkasan transaksi dicetak ke console, lalu kembali ke menu.
     - Perulangan: while / for (apabila digunakan)
     - Menu interaktif berbasis console
 
+
+## **✨ Cara Kontribusi**
+
+1. Fork repo ini
+2. Buat branch baru (ex: fitur-nama-baru)
+3. Commit perubahan dengan pesan jelas
+4. Push branch dan ajukan pull request
+
+
+## **📄 Lisensi**
+
+Proyek ini untuk kebutuhan tugas akademik. Bebas digunakan & dikembangkan, jangan lupa sertakan atribusi.
+
+
+## **🙌 Terima Kasih!**
+
+Semoga README ini membantu. Kalau ada tambahan fitur (misal: simpan file, GUI sederhana), README ini bisa diperbarui—silakan modifikasi sesuai kebutuhan 😊
