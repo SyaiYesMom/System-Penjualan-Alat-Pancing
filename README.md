@@ -74,10 +74,8 @@ Ringkasan transaksi dicetak ke console, lalu kembali ke menu.
 
 ## **🛠 Teknologi & Konsep**
 
-**- Bahasa**: Java
-
-**- Konsep terapan**:
-
+- Bahasa: Java
+- Konsep terapan:
     - Input/output via Scanner
     - TIpe data primitif & String
     - Percabangan: if, else if, nested if
